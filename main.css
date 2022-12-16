@@ -1,0 +1,183 @@
+#container{
+    font-family: 'Karla', sans-serif;    
+}
+#box1{
+    font-size: 40px;
+    background-image: url(https://www.shutterstock.com/image-illustration/watching-movies-cinema-online-entertainment-260nw-1715498335.jpg);
+    color: aliceblue;
+    background-repeat: no-repeat;
+    height: 300px;
+    background-size: cover;sn
+}  
+#card1{
+    display: inline-block; 
+    margin-left: 30px; 
+    margin-top: 40px;  
+    animation-name: color;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+#h1{
+    color: white;
+    text-decoration: none;
+}
+#card2{
+    float: right; 
+    margin-right: 60px;  
+    margin-top: 40px;  
+}
+#a{
+    display: inline-block;
+    margin-top: 120px;
+}
+.card1{
+    padding-left: 30px;
+}
+.card2{
+   padding-left: 100px;    
+}
+.card3{
+  padding-left: 700px;
+}
+.card4{
+    padding-left: 100px;
+}
+.card5{
+    padding-left: 80px;
+}
+#card-3{
+    width: 50px;
+    height: 50px;
+}
+marquee{
+    background-color: rgb(11, 12, 12);
+    color: aliceblue;
+    font-size: 40px;
+    padding: 10px 0px;
+}
+@keyframes color{
+    80%{color: chartreuse;}
+    80%{color: rgb(39, 13, 205);}
+} 
+
+#box2{
+  background: radial-gradient(red,blue,yellow)
+}
+#iframe1{
+margin-left: 30px; 
+}
+#card-6{
+    width: 300px;
+    height: 350px;
+    border-radius: 45px;
+}
+#box3{
+    margin-top: 20px;
+}
+#card6{
+    display: inline-block;
+    margin-left: 60px;
+    margin-top: 32px;
+}
+#b{
+    display: inline-block;
+    width: 250px;
+    height: 200px;
+    margin-left: 100px;
+    border-radius: 30px;
+   text-align: center;
+   padding-top: 90px;
+   font-size: 40px;
+}
+#c{
+    color: black;
+    text-decoration: none;
+}
+.card7{
+    background-color: aqua;
+}
+.card7:hover{
+    box-shadow: 10px 10px 5px 10px grey;
+    background-color: rgb(244, 215, 27);
+    color: blue;
+}
+.card8{
+    background-color: rgb(221, 66, 14);
+}
+.card8:hover{
+    box-shadow: 10px 10px 5px 10px grey;
+    background-color: rgb(21, 169, 159);
+    color: rgb(56, 248, 18);
+    
+}
+.card9{
+    background-color: rgb(110, 45, 232);
+}
+.card10{
+    background-color: rgb(231, 38, 231);
+}
+.card9:hover{
+    box-shadow: 10px 10px 5px 10px gray;
+    background-color: burlywood;
+    color: rgb(8, 144, 137);
+}
+.card10:hover{
+    box-shadow: 10px 10px 5px 10px gray;
+    background-color: rgb(128, 90, 41);
+    color: rgb(239, 185, 6);
+}
+.card01{
+    animation-name: color;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+#box4{
+    background:radial-gradient(rgb(158, 248, 158),rgb(187, 241, 25),rgb(28, 236, 38))
+}
+#card-01{
+    display: inline-block;
+    margin-left: 200px;
+    font-size: 40px;
+}
+#card-02{
+    display: inline-block;
+    margin-left: 200px;
+    font-size: 40px;
+    margin-top: 50px;
+}
+#card-03{
+    display: inline-block;
+    margin-left: 200px;
+    font-size: 40px;
+    margin-top: 50px;
+}
+#card-04{
+    display: inline-block;
+    margin-left: 180px;
+    font-size: 40px;
+    margin-top: 50px;
+}
+#card-05{
+    display: inline-block;
+    margin-left: 180px;
+    font-size: 40px;
+    margin-top: 50px;
+}
+#card-06{
+    display: inline-block;
+    margin-left: 200px;
+    font-size: 40px;
+    margin-top: 50px;
+}
+#card-07{
+    display: inline-block;
+    margin-left: 180px;
+    font-size: 40px;
+    margin-top: 50px;
+}
+#card-08{
+    display: inline-block;
+    margin-left: 120px;
+    font-size: 40px;
+    margin-top: 50px;
+}
